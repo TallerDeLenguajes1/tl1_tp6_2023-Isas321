@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {}
+    "C:\\Users\\javie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\tl1_tp6_2023-Isas321\\practico6\\practico6.csproj",
+      "projectUniqueName": "C:\\Users\\javie\\OneDrive\\Documentos\\000 - Programador Universitario\\taller1\\Repositorio\\tl1_tp6_2023-Isas321\\practico6\\practico6.csproj",
       "projectName": "practico6",
-      "projectPath": "C:\\Repo\\tl1_tp6_2023-Isas321\\practico6\\practico6.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\tl1_tp6_2023-Isas321\\practico6\\obj\\",
+      "projectPath": "C:\\Users\\javie\\OneDrive\\Documentos\\000 - Programador Universitario\\taller1\\Repositorio\\tl1_tp6_2023-Isas321\\practico6\\practico6.csproj",
+      "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\javie\\OneDrive\\Documentos\\000 - Programador Universitario\\taller1\\Repositorio\\tl1_tp6_2023-Isas321\\practico6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
