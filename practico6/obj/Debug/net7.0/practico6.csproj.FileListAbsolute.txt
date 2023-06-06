@@ -28,3 +28,18 @@ C:\Users\javie\OneDrive\Documentos\000 - Programador Universitario\taller1\Repos
 C:\Users\javie\OneDrive\Documentos\000 - Programador Universitario\taller1\Repositorio\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.pdb
 C:\Users\javie\OneDrive\Documentos\000 - Programador Universitario\taller1\Repositorio\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
 C:\Users\javie\OneDrive\Documentos\000 - Programador Universitario\taller1\Repositorio\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\ref\practico6.dll
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\bin\Debug\net7.0\practico6.exe
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\bin\Debug\net7.0\practico6.deps.json
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\bin\Debug\net7.0\practico6.dll
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\bin\Debug\net7.0\practico6.pdb
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.dll
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\refint\practico6.dll
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.pdb
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+C:\Users\usuario\Documents\Taller 1\tl1_tp6_2023-Isas321\practico6\obj\Debug\net7.0\ref\practico6.dll
